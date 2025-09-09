@@ -1,0 +1,37 @@
+.box {
+    /* border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(red, blue);
+    background-image: linear-gradient(to right, red, blue);
+    background-image: linear-gradient(to bottom right, red, blue); */
+
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    box-shadow: -15px -10px 15px greenyellow, 15px 15px 15px blueviolet;
+    color: red;
+}
+
+.mydiv {
+    border: 1px solid black;
+    margin: 10px;
+    height: 300px;
+    width: 200px;
+    background-image: radial-gradient(red, blue);
+}
+
+H1 {
+    text-shadow: 2px 2px 2px red;
+    text-shadow: 2px 2px 2px red, 40px 4px 4px blue;
+}
+
+.ax{
+    border: 2px solid brown;
+    max-height: 100px;
+    overflow: scroll;
+}
+.ay{
+    border: 2px solid blue;
+    min-height: 100px;
+}
