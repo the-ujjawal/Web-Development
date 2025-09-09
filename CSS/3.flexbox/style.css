@@ -1,0 +1,19 @@
+.container{
+    height: 300px;
+    border: 2px solid green;
+    display: flex;
+    /* flex-direction: column-reverse; */
+    /* flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; */
+    /* gap: 10px; */
+    /* align-content: flex-start;  */
+
+
+}
+.box{
+    border: 1px solid brown;
+    background-color: bisque;
+    width: 100px;
+    /* flex-grow: 1px; */
+}
